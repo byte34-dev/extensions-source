@@ -16,8 +16,4 @@ class YuraManga : Madara(
     "https://bacami.net",
     "id",
     SimpleDateFormat("dd/MM/yyyy", Locale.ROOT),
-) {
-    override val mangaSubString = "komik"
-
-    override val useLoadMoreRequest = LoadMoreStrategy.Never
-}
+) 
