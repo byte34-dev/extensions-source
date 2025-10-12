@@ -1,9 +1,9 @@
 ext {
-    extName = 'YuraManga'
+    extName = 'bacami'
     extClass = '.YuraManga'
-    themePkg = 'zmanga'
-    baseUrl = 'https://www.yuramanga.my.id'
-    overrideVersionCode = 38
+    themePkg = 'madara'
+    baseUrl = 'https://bacami.net'
+    overrideVersionCode = 39
     isNsfw = false
 }
 
